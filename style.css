@@ -1,0 +1,167 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(253, 245, 236);
+}
+.container{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+h1{
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-style: italic;
+    font-size: 27px;
+    font-weight: 600;
+    position: absolute;
+    left: 130px;
+}
+.icon{
+    position: absolute;
+    left: 80px;
+    top: 10px;
+    height: 50px;
+    width: 50px;
+}
+.header{
+    position: absolute;
+    left: 19%;
+    top: 30px;
+}
+.btn-start{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-sell{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-market{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-manage{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-pricing{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-learn{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-login{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: rgb(49, 48, 48);
+    background: none;
+    border: none;
+    padding: 0 15px;
+}
+.btn-try{
+    font-size: 17px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    color: #fff;
+    background: #047a67;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    height: 50px;
+}
+.header1{
+    position: absolute;
+    left: 67%;
+    top: 25px;
+}
+h2{
+    color: #03463b;
+    position: absolute;
+    top: 25%;
+    font-size: 50px;
+    font-family: sans-serif;
+    border: none;
+    height: 60px;
+    width: 40%;
+}
+h3{
+    position: absolute;
+    top: 53%;
+    border: none;
+    height: 40px;
+    width: 40%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color: rgb(99, 102, 102);
+}
+.input-field{
+    position: absolute;
+    bottom: 30%;
+    height: 50px;
+    width: 30%;
+    border-radius: 5px;
+    border: 0.5px solid rgb(131, 129, 129);
+    padding: 0 20px;
+    font-size: 15px;
+    font-weight: 400;
+}
+#btn-green{
+    position: absolute;
+    bottom: 30%;
+    left: 37%;
+    height: 50px;
+    color: #fff;
+}
+img{
+    position: absolute;
+    left: 55%;
+    top: 20%;
+    
+}
+h5{
+    position: absolute;
+    bottom: 23%;
+    font-size: 15px;
+    border: none;
+    height: 20px;
+    width: 38%;
+    color: rgb(88, 87, 87);
+    font-weight: 200;
+    font-family: sans-serif;
+}
